@@ -1,0 +1,13 @@
+Welcome to higher/lower game, Bell!
+Enter the lower bound: 1
+Enter the upper bound:L 10
+
+Great, now guess a number between
+1 and 10: 3
+Nope, to low.
+
+Guess another number: 7
+nope, too high
+
+Guess another number: 5
+You got it!
